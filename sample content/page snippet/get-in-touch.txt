@@ -1,0 +1,35 @@
+<div class="row">
+<div class="col-md-8">
+<div class="gmap-container clearfix"><div class="gmap" id="gmap"></div></div>
+</div>
+<div class="col-md-4">
+<h3>Information</h3>
+<p>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.
+</p>
+<ul class="vcard">
+<li>
+<span class="vcard-icon"><i class="fa fa-home"></i></span>
+<span class="vcard-text">677 Tan Son Street, Ho Chi Minh, VN</span>
+</li>
+<li>
+<span class="vcard-icon"><i class="fa fa-phone"></i></span>
+<span class="vcard-text">(+84) 909 53 6892</span>
+</li>
+<li>
+<span class="vcard-icon"><i class="fa fa-print"></i></span>
+<span class="vcard-text">(+84) 909 53 6892</span>
+</li>
+<li>
+<span class="vcard-icon"><i class="fa fa-envelope"></i></span>
+<span class="vcard-text">
+<a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
+</span></li>
+<li>
+<span class="vcard-icon"><i class="fa fa-globe"></i></span>
+<span class="vcard-text"><a href="#">www.yourdomain.com</a></span>
+</li>
+<li>
+<span class="vcard-icon"><i class="fa fa-clock-o"></i></span>
+<span class="vcard-text">Mon - Sat 9:00am - 6:00 pm</span>
+</li></ul></div></div>

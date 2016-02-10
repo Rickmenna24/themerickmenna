@@ -1,0 +1,46 @@
+= 12/03/2014 v1.5.0
+    ==> Ghost 0.5.x compatible
+	==> Add Author Page
+	==> Optimize Grid Layout
+	==> Update Document
+	==> Remove old version
+= 03/28/2014 v1.4.1
+    ==> Ghost 0.4.2 compatible
+	==> Add Tag Page
+= 03/05/2014 v1.4
+    ==> Add Filter Control
+	==> Add Sort Control
+	==> Add Search
+	==> Add Custom Error Page
+	==> Add Page Snippets
+	==> Add Image Format, Drop Caps Format and more short-codes
+	==> Add Auto Format UI when browser resizing
+	==> Optimize Grid Layout
+	==> Update Document
+= 02/18/2014 v1.3
+    ==> Quick fix popup preview image issue
+= 01/16/2014 v1.3
+    ==> Quick fix make Blog Description as default intro text on sidebar
+= 01/15/2014 v1.3
+    ==> Quick fix for ghost install on folder
+= 01/14/2014 v1.3
+    ==> Add Ghost 0.4 compatible version
+    ==> Add Featured Post Ribbon
+    ==> Add Static pages support
+    ==> Encode Post Title and Post Excerpt for social share button
+    ==> Optimize: infinite scroll
+    ==> Fix social share box
+    ==> Update document    
+= 01/11/2014 v1.2
+    ==> Add 3 Home Page Styles Option
+    ==> 2 Sidebar Styles Option
+    ==> Update document
+= 12/30/2013 v1.1
+    ==> Optimize: change default background color and Increase font size
+    ==> Fix disqus comment issue: change link and content color
+= 12/26/2013 v1.0.2
+    ==> Fix UI issue    
+= 12/14/2013 v1.0.1
+    ==> Fix responsive issue                
+= 12/11/2013 v1.0
+    ==> Initial Release 1.0.0
